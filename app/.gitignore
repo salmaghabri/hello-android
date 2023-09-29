@@ -1,0 +1,52 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+build/
+
+# Local configuration file (e.g., proguard-rules.pro)
+proguard-rules.pro
+
+# Gradle files
+.gradle/
+build/
+
+# Android Studio specific files
+*.iml
+.idea/
+.gradle/
+local.properties
+
+# User-specific files
+*.iml
+*.log
+*.project
+*.properties
+*.sublime-workspace
+*.sublime-project
+
+# AndroidStudio 4.1+
+.idea/caches/
+.idea/libraries/
+.idea/modules/
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/misc.xml
+.idea/vcs.xml
+.idea/jsDebugger.xml
+
+# Keystore files
+*.jks

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">cbon</string>
+    <string name="connect">Se connecter</string>
+    <string name="header">TP1 </string>
+</resources>
